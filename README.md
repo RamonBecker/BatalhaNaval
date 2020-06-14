@@ -1,8 +1,8 @@
 # BatalhaNaval
 
-Projeto desenvolvido para a displinca de Programação Estruturada.
+Projeto de jogo batalha naval para a disciplina de Programação estrutura para o Instituto Federal de Santa Catarina
 
 Objetivos:
 
-- Utlização de matrizes;
-- Utilização de vetores.
+* 1 - Foi utilizado matrizes para compor o tabuleiro
+* 2 - Utilizado vetores para compor as peças no tabuleiro.
