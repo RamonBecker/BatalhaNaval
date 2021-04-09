@@ -30,7 +30,7 @@ It is also checked if each ship will not be overlapping another ship at the time
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ```sh
-git clone https://github.com/RamonBecker/BatalhaNaval.git
+git clone https://github.com/RamonBecker/Sea-Beattle.git
 sudo apt update
 sudo apt install build-essential
 sudo apt-get install manpages-dev
@@ -42,7 +42,7 @@ gcc --version
 
 ```sh
 
-git clone https://github.com/RamonBecker/BatalhaNaval.git
+git clone https://github.com/RamonBecker/Sea-Beattle.git
 or install https://desktop.github.com/ 
 install: https://cygwin.com/install.html
 
